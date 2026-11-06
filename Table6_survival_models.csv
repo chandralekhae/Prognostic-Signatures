@@ -1,0 +1,5 @@
+Model,C-index,Log-likelihood ratio p,n
+Clinical only (age + stage),0.719,2.4e-06,809
+Clinical + expression risk,0.734,3e-07,809
+Expression risk only,0.622,0.0016,809
+PAM50 subtype only,0.594,0.095,809

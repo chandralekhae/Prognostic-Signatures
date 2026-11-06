@@ -1,0 +1,9 @@
+Gene set,Split,Model,Balanced acc. mean,Balanced acc. std,Macro F1 mean,Macro F1 std,MCC mean,MCC std
+All genes,Random,LASSO (multinomial),0.86,0.003,0.877,0.001,0.847,0.001
+All genes,Random,Random forest,0.904,0.001,0.907,0.0,0.869,0.001
+All genes,Site-grouped,LASSO (multinomial),0.856,0.0,0.872,0.0,0.844,0.0
+All genes,Site-grouped,Random forest,0.906,0.0,0.906,0.0,0.868,0.0
+PAM50 genes removed,Random,LASSO (multinomial),0.828,0.014,0.848,0.011,0.793,0.011
+PAM50 genes removed,Random,Random forest,0.861,0.005,0.861,0.005,0.786,0.008
+PAM50 genes removed,Site-grouped,LASSO (multinomial),0.818,0.0,0.836,0.0,0.78,0.0
+PAM50 genes removed,Site-grouped,Random forest,0.863,0.0,0.859,0.0,0.782,0.0
